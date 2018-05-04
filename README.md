@@ -1,6 +1,6 @@
 # StepReg
 :exclamation: This is a read-only mirror of the CRAN R package repository.  StepReg — Stepwise Regression Analysis  
-'1. Introduction'
+''1. Introduction''
 
 What is stepwise regression?
 
@@ -42,4 +42,4 @@ The core part of the program is coded with R and Cpp.
 	
 	Examples are listed with help of function stepwise()
 	
-We welcome commits from researchers who wish to improve our software, good luck to you.
+We welcome commits from researchers who wish to improve our software, and good luck to you.
