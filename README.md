@@ -32,7 +32,6 @@ Multicollinearity is a state of very high intercorrelations or inter-association
 The core part of the program is coded with R and Cpp.
 
 ## 3. Usage and Examples
-
 	#install.package("StepReg")
 	
 	library(StepReg)
