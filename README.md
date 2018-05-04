@@ -14,11 +14,11 @@ In this package, multiple dependent variables stepwise regression and continous 
 
 * The main approaches:
 
- ** Forward selection, which involves starting with no variables in the model, testing the addition of each variable using a chosen model fit criterion, adding the variable (if any) whose inclusion gives the most statistically significant improvement of the fit, and repeating this process until none improves the model to a statistically significant extent.
+* * Forward selection, which involves starting with no variables in the model, testing the addition of each variable using a chosen model fit criterion, adding the variable (if any) whose inclusion gives the most statistically significant improvement of the fit, and repeating this process until none improves the model to a statistically significant extent.
 	
- ** Backward elimination, which involves starting with all candidate variables, testing the deletion of each variable using a chosen model fit criterion, deleting the variable (if any) whose loss gives the most statistically insignificant deterioration of the model fit, and repeating this process until no further variables can be deleted without a statistically significant loss of fit.
+* * Backward elimination, which involves starting with all candidate variables, testing the deletion of each variable using a chosen model fit criterion, deleting the variable (if any) whose loss gives the most statistically insignificant deterioration of the model fit, and repeating this process until no further variables can be deleted without a statistically significant loss of fit.
 	
- ** Hybrid Approaches, a combination of the above, testing at each step for variables to be included or excluded.
+* * Hybrid Approaches, a combination of the above, testing at each step for variables to be included or excluded.
 	
 * Selection Criterion:
 
@@ -40,6 +40,6 @@ The core part of the program is coded with R and Cpp.
 	
 	stepwise(data, y, notX, include, Class, selection, select, sle, sls, tolerance,Trace, Choose)
 	
-	{Examples are listed with help of function stepwise()}
+	Examples are listed with help of function stepwise()
 	
 We welcome commits from researchers who wish to improve our software, and good luck to you.
