@@ -1,12 +1,12 @@
 # StepReg
 :exclamation: This is a read-only mirror of the CRAN R package repository.  StepReg — Stepwise Regression Analysis  
-''1. Introduction''
+# 1. Introduction
 
-What is stepwise regression?
+* What is stepwise regression?
 
 Stepwise regression is a method of fitting regression models in which the choice of predictive variables is carried out by an automatic procedure.
 
-What is the main features in SteReg?
+* What is the main features in SteReg?
 
 In this package, multiple dependent variables stepwise regression and continous effect nesting within class effect are considered. It computes power for three test statistics: Wilks’ lambda, Pillai-Bartlett trace, and Hotelling Lawley trace in multivariate stepwise regression analysis.
 
