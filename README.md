@@ -19,7 +19,7 @@ In this package, multiple dependent variables stepwise regression and continous 
 	
 * * Hybrid Approaches, a combination of the above, testing at each step for variables to be included or excluded.
 	
-* Selection Criterion:
+* Selection or Choose Criterion:
 
 AIC/AICc/BIC/HQ/HQc/SBC/Pvalue based on F test and Approximate F test (Wilks’ lambda, Pillai-Bartlett trace, and Hotelling Lawley trace).
 	
