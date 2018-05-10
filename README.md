@@ -2,7 +2,7 @@
 :exclamation: This is a read-only mirror of the CRAN R package repository.  StepReg — Stepwise Regression Analysis  
 ## 1. Introduction
 
-* What is stepwise regression?
+* What is the stepwise regression?
 
 Stepwise regression is a method of fitting regression models in which the choice of predictive variables is carried out by an automatic procedure.
 
