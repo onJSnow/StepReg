@@ -8,7 +8,7 @@ Stepwise regression is a method of fitting regression models in which the choice
 
 * What is the main features in SteReg?
 
-In this package, multiple dependent variables stepwise regression and continous effect nested within class effect are considered. It computes power for three test statistics in multivariate stepwise regression analysis: Wilks’ lambda, Pillai-Bartlett trace, and Hotelling Lawley trace.
+In this package, multiple dependent variables stepwise regression, continous effect nested within class effect and forced first n effects are considered. It computes power for three test statistics in multivariate stepwise regression analysis: Wilks’ lambda, Pillai-Bartlett trace, and Hotelling Lawley trace.
 
 ## 2. Statistical and coding details in this package
 
