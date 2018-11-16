@@ -40,4 +40,15 @@ The core part of the program is coded with R and Cpp.
 	
 	Examples are listed with help of function stepwise()
 	
+## 4.Validation
+* Reference
+
+Result of multivariate stepwise regression are consistent with the reference
+* SAS software validation
+
+The final results from this package are validated with SAS software,
+data set1 without class effect: 13 dependent variable, 129 independent variable and 216 samples.
+data set2 with 4 class effect: 12 dependent variable, 1270 independent variable and 647 samples.
+data set3 with 6 class effect: 5 dependent variable, 2068 independent variable and 412 samples.
+
 We welcome commits from researchers who wish to improve our software, and good luck to you.
