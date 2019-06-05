@@ -36,7 +36,7 @@ The core part of the program is coded with R and Cpp.
 	
 	library(StepReg)
 	
-	stepwise(data, y, notX, include, Class, selection, select, sle, sls, tolerance,Trace, Choose)
+	stepwise(data, y, notX, include, Class, weights, selection, select, sle, sls, tolerance,Trace, Choose)
 	
 	Examples are listed with help of function stepwise()
 	
